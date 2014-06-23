@@ -117,12 +117,12 @@ function trackClickOnElement($link, category, action, label) {
 }
 
 // Buttons that are going to trigger the Analytics event.
-var $mainButton = $('.btn-success'),
+var $mainButton = $('.btn-success');
 
 // Strings for the event description.
 var category = 'Main Events',
     mainAction = 'Main Button Action',
-    mainLabel = mainAction,
+    mainLabel = mainAction;
 
 // We call the utility function to setup the tracking.
 trackClickOnElement($mainButton, 
