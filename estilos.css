@@ -1,0 +1,38 @@
+.starter-template{
+	margin-top: 8em;
+	margin-right: auto;
+	margin-left: auto;
+	padding 40px 15px;
+	width: 90%
+}
+
+.link-cafeteria{
+	font-size: 1.5em;
+	color: #000000;
+}
+
+.panel-cabecera{
+	padding: 15px 15px;
+	background-color: #8DB61A;
+	color: #FFFFFF;
+	border: 0;
+}
+
+.navbar {
+	height: 5em;
+	padding-top: 0.5em;
+	padding-bottom: 2em;
+	background-color: #DDDDDD;
+	border: 0;
+}
+
+.navbar-collapse{
+	background-color: #B6B8BB;
+	color: #FFFFFF;
+	margin-top: 0.5em;
+	border: 0;
+}
+
+body{
+	background-color: #FFFFFF;
+}
